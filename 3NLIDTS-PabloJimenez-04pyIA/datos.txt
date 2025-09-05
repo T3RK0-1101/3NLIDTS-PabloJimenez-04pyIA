@@ -5,3 +5,10 @@ Estatura: 1.62 m
 Telefono: 9671226598
 Genero: Hombre
 
+Nombres: Sergio
+Apellidos: Perez
+Edad: 35 anios
+Estatura: 1.79 m
+Telefono: 9651157845
+Genero: Hombre
+
