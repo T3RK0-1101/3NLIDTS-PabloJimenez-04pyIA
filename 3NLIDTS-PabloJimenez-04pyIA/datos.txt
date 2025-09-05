@@ -1,0 +1,7 @@
+Nombres: Jorge
+Apellidos: Martinez Vazquez
+Edad: 18 anios
+Estatura: 1.62 m
+Telefono: 9671226598
+Genero: Hombre
+
